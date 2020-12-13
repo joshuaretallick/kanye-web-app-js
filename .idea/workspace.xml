@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c877b08-1fe8-45cd-b3f3-a2ebf0dfd7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607852009381</updated>
-      <workItem from="1607852019977" duration="1864000" />
+      <workItem from="1607852019977" duration="2631000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README.md">
       <created>1607852185918</created>
@@ -68,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607852512693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Code generates a random Kanye quote and a random cat image using JSON request and response to an API">
+      <created>1607854026445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607854026445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated README.md" />
     <MESSAGE value="Prepped HTML with script tag referencing index.js and created IDs we can call on later for quote and pic generation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prepped HTML with script tag referencing index.js and created IDs we can call on later for quote and pic generation" />
+    <MESSAGE value="Code generates a random Kanye quote and a random cat image using JSON request and response to an API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code generates a random Kanye quote and a random cat image using JSON request and response to an API" />
   </component>
 </project>
